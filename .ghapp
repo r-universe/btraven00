@@ -1,0 +1,10 @@
+{
+  "id": 173556108,
+  "created_at": "2026-10-20T22:38:02.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["clust-libreville-rs", "btraven00.r-universe.dev"]
+}
