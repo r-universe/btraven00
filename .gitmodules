@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/btraven00/btraven00.r-universe.dev
 	branch = HEAD
+[submodule "BrailleR"]
+	path = BrailleR
+	url = https://github.com/ajrgodfrey/BrailleR
 [submodule "clusterLibreville"]
 	path = clusterLibreville
 	url = https://github.com/btraven00/clust-libreville-rs
