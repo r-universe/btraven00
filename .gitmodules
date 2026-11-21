@@ -6,3 +6,17 @@
 	path = clusterLibreville
 	url = https://github.com/btraven00/clust-libreville-rs
 	branch = r-pkg
+[submodule "glmjax"]
+	path = glmjax
+	url = https://github.com/btraven00/glm-jax
+	subdir = r
+[submodule "picklerick"]
+	path = picklerick
+	url = https://github.com/btraven00/scx
+	subdir = r/picklerick
+[submodule "scBrailleR"]
+	path = scBrailleR
+	url = https://github.com/btraven00/scBrailleR
+[submodule "xlaport"]
+	path = xlaport
+	url = https://github.com/btraven00/xlaport
